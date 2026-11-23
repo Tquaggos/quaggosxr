@@ -3,7 +3,7 @@
 
 # 👨‍💻 Arthur Quaggos
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Front-end+e+Back-end;Java+%7C+JavaScript+%7C+React;Sempre+aprendendo+algo+novo!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Estudante+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Front-end+e+Back-end;Java+%7C+JavaScript+%7C+React;Sempre+aprendendo+algo+novo!" />
 
 </div>
 
@@ -14,9 +14,9 @@
 Olá! Sou Arthur Quaggos, estudante de Desenvolvimento de Sistemas no SENAI.
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
-- 💻 Tenho interesse em desenvolvimento Front-end e Back-end.
+- 💻 Interessado em desenvolvimento Front-end e Back-end.
 - 🌱 Atualmente estudando Java, JavaScript e React.
-- 🎯 Meu objetivo é evoluir como desenvolvedor e criar projetos incríveis.
+- 🎯 Buscando evoluir como desenvolvedor e criar projetos incríveis.
 
 ---
 
@@ -52,10 +52,31 @@ Olá! Sou Arthur Quaggos, estudante de Desenvolvimento de Sistemas no SENAI.
 
 ---
 
+## 🌐 Conecte-se comigo
+
 <div align="center">
 
-### Obrigado pela visita! 🚀
+<a href="https://www.linkedin.com/in/arthur-de-souza-quaggos-30237236b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" />
+<a href="https://www.instagram.com/thurxt.01/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/Tquaggos" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+### 🚀 Obrigado pela visita!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" />
+
+</div>
+
